@@ -1,0 +1,252 @@
+EcstasyMotion (Early Adopter) Application - End User License Agreement
+ 
+
+EcstasyMotion - End User License Agreement (EULA)
+
+ 
+
+ DEFINITIONS
+
+-------------------------------------------------------
+
+Allowed Content: All content that does not fall under the Restricted Content definition (see below). 
+
+Company: BrokeAss Games L.L.C. 
+
+Content: characters, clothing, faces, hair, geometries, images, materials, meshes, morphs, motion files, props, scripts, textures, bump maps, transparencies, etc., created with the intent of being used within the Program and/or third party applications. 
+
+Documentation: Any written material in any form supplied with the Program and/or written material provided by authorized agents or representatives of the Company. 
+
+  Program: Computer software and associated files in Proprietary File Formats contained within the accompanying physical media. 
+
+Proprietary Files and Formats: Files with the following extensions: .playlist, .keyframe any proprietary compressed formats, and/or future proprietary file formats 
+
+ Restricted Content: All proprietary data, included content, derivative content, files, images, mesh objects, and otherwise copyrighted, trademarked, and/or patented material supplied within the accompanying physical media. 
+
+Third-Party: Any company and/or individual who are not authorized agents or representatives of the Company. 
+
+BrokeAss Games L.L.C. (Company), a California-based Corporation, provides the Program and the Documentation in this package and licenses its use. Digitally downloading and installing the Program indicates that you agree to follow and be contractually bound by all of the terms and conditions comprising this EULA. If you do not agree with these terms, please delete the Program.
+
+ 
+
+THIRD-PARTY TECHNOLOGY
+
+-------------------------------------------------------
+
+Portions of Program contain technology and/or other components licensed by the Company from the following third parties: NVIDIA, Garage Games Inc., Plastic Games LLC, LogicKing.com, each of whom retain the ownership, copyrights, trademarks, and patents to their respective contributions to the Program.
+
+ 
+
+GENERAL
+
+-------------------------------------------------------
+
+A. The Company maintains an ongoing EULA enforcement program. Violation of any provision in this EULA automatically terminates this EULA and may subject you to civil and/or criminal prosecution at the Company's sole discretion.
+
+ 
+
+B. Your payment of the license fee grants you a LIMITED, PERSONAL, and NON EXCLUSIVE license to use Program and Documentation in accordance with all of the terms stated in this EULA. This license is NON TRANSFERABLE except as expressly permitted in this EULA or by US copyright law.
+
+ 
+
+C. You expressly acknowledge that the Company has a valuable proprietary interest in both the Program and the Documentation. All title, ownership, and rights to the Program and the Documentation not expressly granted to you by this EULA and applicable laws remain with the Company. 
+
+ 
+
+D. You cannot use, copy, modify, derive, or transfer Program or Documentation or any copy, modification, derivation, or merged portion thereof in whole or in part via any means or for any purpose whatsoever except as expressly provided in this EULA.
+
+ 
+
+E. You assume full responsibility for your selection of the Program to achieve your intended results and for the installation, use, and results you obtain from the Program. 
+
+ 
+
+F. You may only use the Program on a single computer, meaning that you must treat the Program like a book. "Like a book" means that the Program may be used by any number of people and may be freely moved from one computer to another so long as no possibility exists of the Program being used at more than one computer simultaneously. More than one person at a time cannot read the same copy of a book, and this restriction applies to the Program. The Company is pleased to offer site licenses for multiple simultaneous users. Please contact the Company at the address below for details.
+
+ 
+
+G. You, your employees, and/or authorized agents must protect the Program's confidentiality and act to enforce this EULA. You cannot distribute or otherwise make the Program or Documentation available to any third party via any means whatsoever, public or private, for any purpose, commercial or not, unless explicitly allowed by either this EULA or applicable US copyright law.
+
+ 
+
+H. You may not copy or reproduce the Program or the Documentation except to make one (1) archival copy of the Program for your personal backup purposes, in support of your using the Program in full compliance with this EULA. You may not transfer this archival copy or permit this archival copy to be transferred to any other person or entity via any public or private means whatsoever, whether for compensation or not, unless this archival copy is part of a one-time permanent transfer of the Program, the Documentation, and all rights to use the Program and the Documentation granted by this EULA. Further, you must reproduce and include the Company's copyright notice on the archival copy of the Program. Company retains full ownership, title, and all other rights to the copy of the Program contained on your archival media, and all of the terms of this EULA apply to this archival copy as if it was the original Company-produced copy of the Program that was furnished to you when you paid the licensing fee.
+
+ 
+
+I. You cannot reverse engineer, decompile, debug, disassemble, circumvent security features, or interfere with the normal Program functionality and operation for any reason whatsoever without the express prior written consent of the Company. Any such activity performed without the required consent is a violation of this EULA that may subject you to civil and/or criminal prosecution at the Company's sole discretion.
+
+ 
+
+J. Any portion of the Program merged into or used in conjunction with another program remains the property of the Company and subject to this EULA. You must reproduce and include the Company's copyright notice on any portion of the Program merged in or used in conjunction with another program.
+
+ 
+
+K. The sale of legal copies of the Program and the Documentation is restricted in accordance with US copyright law and any existing distributor and/or reseller agreements currently in effect between the Company and authorized distributors/resellers. This EULA does not grant the user the ability to act as a reseller of the Product or the Documentation. You may perform one permanent transfer of assignment of your personal copy of the Program, the Documentation, and this End User License Agreement as permitted under US copyright law provided all materials shipped with the Product (including the Program, the Documentation, the Allowed Content, the Restricted Content, and all rights granted by the EULA) are complete and unaltered and that all copies in your possession in original and converted forms are transferred. The party receiving the permanent transfer must accept the terms and conditions of this EULA and any other terms and conditions upon which you legally purchased a license to the Program. 
+
+ 
+
+L. You may not rent, lease, sublicense, or lend any versions or copies of the Program that you do not use. If the Program is an update to a previous version of the Program, you must possess and maintain a valid license to such previous version in order to use the update.
+
+ 
+
+M. You may continue to use the previous version of the Program on your computer provided that all previous End User License Agreements are observed. You may not transfer the previous version without transferring or destroying the updated version.
+
+ 
+
+CONTENT DISTRIBUTION
+
+-------------------------------------------------------
+
+A. As used in this section, the term "Restricted Content" means all files and data included with or part of the Program including but not limited to:
+
+ 
+
+- Included mesh objects (geometry) in any format.
+
+ 
+
+- Included files in all proprietary Program file formats (.playlist, .keyframe and any subsequent/compressed formats).
+
+ 
+
+- Included images (including but not limited to materials, texture and transparency maps).
+
+ 
+
+- Included Documentation.
+
+ 
+
+ - Restricted Content extracted or exported from the Program remains Restricted Content except as expressly permitted by this agreement.
+
+ 
+
+B. Third-party content included with Program and Documentation is copyrighted and owned by the original content creators.
+
+ 
+
+C. The Company claims full ownership and copyright rights to all Company-created Restricted Content and all derivatives of these files which are not expressly permitted by this agreement.
+
+ 
+
+D. You cannot sell, resell, distribute, cause to be distributed, or allow any portion of the Restricted Content to be distributed under any circumstances, via any public or private medium, except where expressly permitted by this EULA and US copyright law, without the Company's prior written consent, a copy of which must be furnished with all Restricted Content distributed in accordance with this section. You may only use the Restricted Content for exclusive use on one computer unless authorized within this EULA and/or the contents of the Company's official written consent.
+
+ 
+
+E. You may copyright and distribute rendered still or animated images derived from the Restricted Content without restriction or royalty to Company provided you do not violate other clauses of this agreement.
+
+ 
+
+F. If you purchased a Site License, you may distribute the Restricted Content between all computers containing valid copies of the Program, other Company products, and/or other software able to process Restricted Content.
+
+ 
+
+G. You may export geometry data for use in other third party software packages provided that you do not violate any terms of this agreement. You may not sell, distribute, or copyright exported Restricted Content geometry data in any format of any kind unless expressly permitted by this agreement. Re-triangulated, simplified, subdivided, or other Derivative forms of exported geometry data remain Restricted Content. You may use Program to generate three-dimensional motion data that you can sell, distribute, and copyright provided that this data is not derived from motion data included in the Restricted Content.
+
+ 
+
+H. You may use and distribute the Allowed Content in accordance with all applicable license terms imposed by the content's original creator. The Company does not enforce third-party rights.
+
+ 
+
+I. The purpose of defining certain content as Restricted Content is to protect the Company's investment, interests, and ownership of Restricted Content. It is not the Company's policy to unreasonably restrict or inhibit any third party's creative or commercial activities. The following are Legitimate Uses of Restricted Content:
+
+ 
+
+- Creating rendered scenes based on the Restricted Content provided that any distribution of the rendered scenes will not include the original mesh connectivity information. This can be in the form of animated movies or cinematic scenes but does not include the complete mesh.
+
+ 
+
+- Creating original content (animations) for Restricted Content for sale, distribution, public display, etc.
+
+ 
+
+- Creating tutorials, books, or other educational materials using images of Program interface for sale, distribution, public display, etc., provided they are intended to educate users as to use of the Program, or when used under the "fair use" guidelines of US copyright law. Any other use of images of the Program interface must be approved by the Company's prior written consent.
+
+ 
+
+- Creating Torque scripts limited to use within the Program, not for resale.
+
+ 
+
+J. As part of the legitimate uses for Restricted Content outlined above, you may reproduce, distribute, sell, copyright, publicly display, and publicly perform using Restricted Content provided that such activity is limited to the Legitimate Uses enumerated above and does not violate any other clauses in this agreement and/or applicable US copyright laws.
+
+ 
+
+ NO WARRANTY
+
+-------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS-IS". NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE AS TO IT OR ANY MEDIUM IT MAY BE ON. BROKEASS GAMES WILL PROVIDE NO REMEDY FOR INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES ARISING FROM IT, INCLUDING SUCH FROM NEGLIGENCE, STRICT LIABILITY, OR BREACH OF WARRANTY OR CONTRACT, EVEN AFTER NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+ 
+
+APPROPRIATE USE
+
+-------------------------------------------------------
+
+ You may not use the Program in any manner that violates any applicable laws in your locality. The Company is not responsible for any illegal use of this software.
+
+ 
+
+TERM
+
+-------------------------------------------------------
+
+ This EULA remains in full force and effect until terminated. You may terminate it at any time by returning the Program and the Documentation to the Company together with all copies, modifications, and merged portions of the Product and the Documentation in any form. This EULA will also terminate upon the conditions set forth elsewhere in this EULA, including but not limited to your violation of any of the provisions herein. 
+
+Upon termination, you must immediately return both the Program and the Documentation to the Company along with all copies, modifications, and merged portions in any form. Termination of this EULA for any reason in no way limits the Company's right to continue enforcing all rights provided by law and does not entitle you to a refund of your license fee except as provided herein. All provisions of this EULA that protect the Company's proprietary rights continue in full force and effect after termination.
+
+ 
+
+U.S. GOVERNMENT RESTRICTED RIGHTS
+
+-------------------------------------------------------
+
+The Program and The Documentation are provided with restricted rights. The use, duplication, or disclosure by the United States Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software Clause at DFARS 252.227-7013 or subparagraph (c)(1) and (2) of the Commercial Computer Software Restricted Rights at 48 CFR 52.227-19, as applicable. The Contractor/Manufacturer is BrokeAss Games L.L.C.
+
+ 
+
+APPLICABLE LAW
+
+-------------------------------------------------------
+
+The laws of the state of California govern this EULA, except that federal and international law governs copyrights, patents, and registered trademarks. Should any court having appropriate jurisdiction find any provision of this EULA invalid, that particular provision will be deemed null and void and will not affect the validity of any other provision of this EULA.
+
+ 
+
+CONTACT INFORMATION
+
+-------------------------------------------------------
+
+If you have questions concerning this EULA or need to contact Customer Service, please contact Company at this address:
+
+ 
+
+BrokeAss Games L.L.C.
+
+60 South Humboldt Street
+
+Willits, CA 95490
+
+USA
+
+Customer Service: info@brokeassgames.com
+
+Sales & Distribution: sales@brokeassgames.com
+
+Legal: legal@brokeassgames.com
+
+ 
+
+For technical support, please visit our community forums at www.ecstasymotion.com.
+
+ 
+
+COPYRIGHT
+
+-------------------------------------------------------
+
+ The EcstasyMotion and the Documentation are ©2009 BrokeAss Games L.L.C. All rights reserved. All other product names mentioned in the Program, the Documentation, or other documentation are used for identification purposes only and may be trademarks or registered trademarks of their respective companies. Registered and unregistered trademarks used herein are the exclusive property of their respective owners. 
+
+Copyright © 2009  BrokeAss Games LLC. All rights reserved. 

@@ -1,0 +1,3 @@
+Ogitor 0.4.3
+ - the plugin-based WISIWYG Scene Builder Environment for
+Ogre3D.

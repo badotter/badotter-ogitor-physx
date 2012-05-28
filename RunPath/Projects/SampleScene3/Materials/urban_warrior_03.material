@@ -1,0 +1,162 @@
+material 
+{
+	technique
+	{
+		pass
+		{
+		}
+	}
+}
+
+material Mat_SkinTorso
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_bodybald.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_SkinBody
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_malebody.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_InnerMouth
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_mouth.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_E_BrownD.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_Face
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_face.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_SkinForearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4Smpl_limbs.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_UrbanWarrior
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture M4UrWar03.jpg
+				filtering point point point
+			}
+		}
+	}
+}
+material Mat_Frames
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.752941 0.752941 0.752941
+			diffuse 0.752941 0.752941 0.752941
+			specular 0 0 0 40
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture SnglssDzT.jpg
+				filtering point point point
+			}
+		}
+	}
+}
